@@ -7,4 +7,4 @@
   * [Assignment 02 (Numpy)](Assignments/Assignment02_(NumpyFundamentals).ipynb)
   
 ### Tasks:
-  * [Task 01 (Numpy)](Tasks/Assignment02_(NumpyFundamentals).ipynb)
+  * [Task 01 (Numpy)](Tasks/NumpyTask01.ipynb)
