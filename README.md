@@ -8,3 +8,4 @@
   
 ### Tasks:
   * [Task 01 (Numpy)](Tasks/NumpyTask01.ipynb)
+  * [Task 02 (Numpy)](Tasks/NumpyTask02.ipynb)
